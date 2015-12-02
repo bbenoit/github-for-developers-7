@@ -4,3 +4,4 @@
 - **From**: Paris
 - **Favorite food**: menkar eggs
 - **Hobby**: to travel
+- **Favorite color**: blue
